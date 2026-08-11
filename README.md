@@ -58,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Tejasxxx-45/Leetcode/tree/master/1617-stone-game-iv) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Tejasxxx-45/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Tejasxxx-45/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->

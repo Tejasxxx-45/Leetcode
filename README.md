@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tejasxxx-45/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tejasxxx-45/Leetcode/tree/master/0013-roman-to-integer) |
+| [0146-lru-cache](https://github.com/Tejasxxx-45/Leetcode/tree/master/0146-lru-cache) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,8 +63,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tejasxxx-45/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/Tejasxxx-45/Leetcode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tejasxxx-45/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Tejasxxx-45/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Tejasxxx-45/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

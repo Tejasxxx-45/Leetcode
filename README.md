@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Tejasxxx-45/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tejasxxx-45/Leetcode/tree/master/0013-roman-to-integer) |
 | [1617-stone-game-iv](https://github.com/Tejasxxx-45/Leetcode/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/Tejasxxx-45/Leetcode/tree/master/2002-stone-game-viii) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tejasxxx-45/Leetcode/tree/master/0011-container-with-most-water) |
+| [2002-stone-game-viii](https://github.com/Tejasxxx-45/Leetcode/tree/master/2002-stone-game-viii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,14 +41,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Tejasxxx-45/Leetcode/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/Tejasxxx-45/Leetcode/tree/master/2002-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Tejasxxx-45/Leetcode/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/Tejasxxx-45/Leetcode/tree/master/2002-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Tejasxxx-45/Leetcode/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/Tejasxxx-45/Leetcode/tree/master/2002-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -59,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Tejasxxx-45/Leetcode/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/Tejasxxx-45/Leetcode/tree/master/2002-stone-game-viii) |
 ## Linked List
 |  |
 | ------- |
@@ -76,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Tejasxxx-45/Leetcode/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [2002-stone-game-viii](https://github.com/Tejasxxx-45/Leetcode/tree/master/2002-stone-game-viii) |
 <!---LeetCode Topics End-->
